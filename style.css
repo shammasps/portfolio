@@ -719,7 +719,11 @@ textarea.form-control {
 }
 .social-media-btn{
     margin-top: 3%;
-    margin-left: 36%;
+    margin-top: 3%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;   
 }
 .fa-envelope{
     font-size: 225%;
@@ -766,7 +770,7 @@ textarea.form-control {
     color: #007ced;
 }
 
-@media only screen and (max-width:420px){
+@media only screen and (max-width:700px){
     
     .navbar-toggler{
         margin-top: 14%;
