@@ -450,7 +450,7 @@ circle{
 } 
 @keyframes animCircle3 {
     100%{
-        stroke-dashoffset:118;
+        stroke-dashoffset:170;
     }
 }  
 @keyframes animCircle4 {

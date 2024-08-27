@@ -74,7 +74,7 @@ function actanim() {
   let number3 = document.getElementById('number3');
   let counter3 =0;
   setInterval(() => {
-  if (counter3 == 75) {
+  if (counter3 == 60) {
     
   } else {
     counter3 += 1 ;
