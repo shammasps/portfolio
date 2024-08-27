@@ -111,7 +111,7 @@ body, p {
     margin: 15% 0;
 }
 .profile{
-    background-image: url("./img/profil2.jpg");
+    background-image: url("./img/profile3.jpg");
     background-position: calc(50% + 1.8858px) calc(50% + 6.61023px);
 }
 .home-photo .hp-inner {
@@ -123,9 +123,9 @@ body, p {
     position: absolute;
     top: 0px;
     bottom: -115px;
-    width: 127%;
-    left: -14px;
-    right: 0px;
+    width: 100%;
+    /* left: -14px;
+    right: 0px; */
 }
 .home-photo {
     display: block;
