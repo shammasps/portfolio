@@ -388,7 +388,7 @@ body, p {
 
    /* skill 2 */
 
-#allskills{
+/* #allskills{
     margin-left: 7%;
 }
 .skill{
@@ -428,7 +428,7 @@ circle{
     stroke-width: 20px;
     stroke-dasharray: 472;
     stroke-dashoffset: 472; 
-}
+} */
 /* % find this way
 472-472*0.65 */
 
@@ -437,7 +437,7 @@ circle{
         stroke-dashoffset:10;
     }
 }  */
-
+/* 
 @keyframes animCircle1 {
     100%{
         stroke-dashoffset:94;
@@ -457,15 +457,14 @@ circle{
     100%{
         stroke-dashoffset:165;
     }
-}    
+}     */
 
-
+/* 
 svg{
     position: absolute;
     top: 0;
     left: 0;
-    /* margin-left: 26%;
-    margin-top: 86%; */
+    
 }
 
 
@@ -477,8 +476,6 @@ svg{
     font-weight: 600;
     font-style: normal;
     color: #f5f5f5;
-    /* position: absolute; */
-    /* word-break: break-all; */
     padding-left: 20px;
 
 }
@@ -487,6 +484,11 @@ svg{
 }
 .node{
     margin-left: 10%;
+} */
+
+.study2{
+    width: 52%;
+    margin-left: 23%;
 }
 
 .single-page-content .content-area {
